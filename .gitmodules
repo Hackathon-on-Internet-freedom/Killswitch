@@ -1,0 +1,6 @@
+[submodule "killswitch-app-android"]
+	path = killswitch-app-android
+	url = https://github.com/mike-lambert/killswitch-app-android.git
+[submodule "killswitch-token-ble"]
+	path = killswitch-token-ble
+	url = https://github.com/mike-lambert/killswitch-token-ble
